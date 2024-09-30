@@ -38,7 +38,7 @@ export const HeroSection = () => {
           onClick={() => router.push("/order")}
           className="px-6 py-3 bg-white bg-opacity-20 backdrop-blur-md rounded-full border border-white border-opacity-30 text-white font-bold tracking-wide hover:bg-opacity-30 transition-all duration-300 text-sm sm:text-base 3xl:text-3xl"
         >
-          ORDER FOOD NOW &rarr;
+          Place An Order &rarr;
         </button>
       </div>
     </div>
