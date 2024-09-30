@@ -10,6 +10,12 @@ import Footer from "@/components/Footer";
 
 const brands = [
   {
+    src: kombucha,
+    title: "ROBOT Kombucha",
+    link: "https://www.robotkombucha.co.uk",
+    domain: "www.robotkombucha.co.uk",
+  },
+  {
     src: burger,
     title: "The Organic Burger Co",
     link: "/burger",
@@ -21,12 +27,7 @@ const brands = [
     link: "/le-boulevard",
     domain: "www.leboulevard.co.uk",
   },
-  {
-    src: kombucha,
-    title: "ROBOT Kombucha",
-    link: "https://www.robotkombucha.co.uk",
-    domain: "www.robotkombucha.co.uk",
-  },
+  
 ];
 
 export const OrderBrands = () => {
