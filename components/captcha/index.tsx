@@ -9,7 +9,7 @@ export const GoogleRecaptcha= () => {
   return (
     <div>
       <ReCAPTCHA
-        sitekey="6Lfco08qAAAAAJSgM7OaCKInN0yYd_XYotxfs2Ef"
+        sitekey="6LcSJFMqAAAAAJswptrlpSzULnDC7qh2gNysIMIv"
         onChange={(value) => console.log("Captcha value:", value)}
       />
     </div>
