@@ -2,7 +2,8 @@ import { SocialHeroSection } from "@/app/social-goverence/_components/SocialHero
 import { Navbar } from "@/components/Navbar";
 import Image from "next/image";
 import React from "react";
-import order from "@/public/order.png";
+// import order from "@/public/order.png";
+import order from "@/public/order-here.jpg";
 import { OrderHeroSection } from "./OrderHeroSection";
 import { OrderBrands } from "./OrderBrands";
 import { currentUser } from "@/lib/currentUser";

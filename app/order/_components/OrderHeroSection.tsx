@@ -8,7 +8,7 @@ export const OrderHeroSection = () => {
       {/* heading */}
       <div className=" text-white font-bold">
         <h1 className=" text-3xl text-center sm:text-3xl pl-8 sm:pl-8 md:pl-0 md:text-4xl lg:text-5xl">
-          Order food now!
+          Order here
         </h1>
       </div>
       {/* Divider Image */}
