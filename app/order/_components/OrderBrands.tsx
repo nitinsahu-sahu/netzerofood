@@ -1,7 +1,8 @@
 import React from "react";
 import burger from "@/public/burger.png";
 import boulevard from "@/public/boulevard.png";
-import kombucha from "@/public/robot.png";
+// import kombucha from "@/public/robot.png";
+import kombucha from "@/public/robot-kombucha-comming-soon.png";
 import Image from "next/image";
 import { EmailSection } from "@/app/social-goverence/_components/EmailSection";
 import { pages } from "@/app/social-goverence/_components/Showcase";
