@@ -1,6 +1,6 @@
 import React from "react";
-import burger from "@/public/burger.png";
-import boulevard from "@/public/boulevard.png";
+import burger from "@/public/burger-comming-soon.png";
+import boulevard from "@/public/boulevard-comming-soon.png";
 // import kombucha from "@/public/robot.png";
 import kombucha from "@/public/robot-kombucha-comming-soon.png";
 import Image from "next/image";
